@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name"> --- PROYECTO --- </string>
+    <string name="frase1">¡Bienvenido!</string>
+    <string name="button1">Seleccione foto</string>
+    <string name="button2">Tome una foto</string>
+    <string name="button3">Guardar</string>
+
+    <string-array name="basicos">
+        <item> --- Filtros Basicos --- </item>
+        <item>Inversión o Negativo.</item>
+        <item>Escala de Grises.</item>
+        <item>Brillo.</item>
+        <item>Contraste.</item>
+        <item>Gamma.</item>
+        <item>Separación de Canales: Rojo.</item>
+        <item>Separación de Canales: Verde.</item>
+        <item>Separación de Canales: Azul.</item>
+    </string-array>
+
+    <string-array name="convolucion">
+        <item> --- Filtros Convolucion  --- </item>
+        <item>Smoothing.</item>
+        <item>Gaussian Blur.</item>
+        <item>Sharpen.</item>
+        <item>Mean Removal.</item>
+        <item>Embossing.</item>
+        <item>Edge Detection.</item>
+
+        <item>Noise.</item>
+        <item>Saturación.</item>
+        <item>Boost.</item>
+        <item>Hue.</item>
+        <item>Tint.</item>
+        <item>Skectch.</item>
+
+    </string-array>
+
+</resources>
